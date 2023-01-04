@@ -113,6 +113,11 @@ To run tests, run the following command:
 
 ## Here is the Front End Project Built with REACT
 > `https://github.com/David-Kasilia/hello-react-front-end`
+
+## Here is a link to the deployment of the front end
+> `https://hello-app-react-kasiliacreations.netlify.app/`
+
+
 ### Deployment
 
 You can deploy this project using:
